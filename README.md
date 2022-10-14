@@ -1,4 +1,4 @@
-#################### Terraform bootcamp Nodejs weight tracker project #################
+#Terraform bootcamp Nodejs weight tracker project using azure availibility set
 
 This branch will help you get an idea about the terraform modules to create various resources in azure using terraform.
 
