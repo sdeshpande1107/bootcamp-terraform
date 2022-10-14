@@ -11,3 +11,20 @@ The branch includes tf files to create resources such as :
 5. Variables
 
 
+In order to create a specific resource, copy the code of that resource and save it with ".tf" extension.
+
+################ To initialize terraform state file ###################
+
+terraform init
+
+################ To check what resources will be created ###############
+
+terraform plan
+
+################ To perform resource creation process ##################
+
+terraform apply
+
+############### To destroy created resources ###########################
+
+terraform destroy
